@@ -17,6 +17,14 @@ Also i've had the opportunity to work in AR development with different framework
 <a href="https://www.instagram.com/m.angel.hoyos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.angel.hoyos/" height="30" width="40" /></a>
 </p>
 
+<h3>Projects i've worked on</h3>
+<ul>
+  <li><a href="https://sacredtails.com">Sacred Tails</a></li>
+  <li><a href="https://www.youtube.com/watch?v=YM21cwCaAeM">Cabin Crew Simulator VR</a></li>
+  <li><a href="https://www.youtube.com/watch?v=teMYoaqYCh0">GoPicking Hololens</a></li>
+  <li><a href="https://apps.apple.com/tr/app/maternidades/id1600949528">Maternidades</a></li>
+</ul>
+
 <h3> Profile</h3>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=MANGELHOYOS&include_all_commits=true&show_icons=true&count_private=true&disable_animations=true&theme=tokyonight&hide=stars,contribs)
