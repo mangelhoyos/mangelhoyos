@@ -7,9 +7,11 @@
 
 <h3> 🧑‍💼 My tech experience 🧑‍💼</h3>
 
-I've worked as a Game Developer for a while, creating games in multiple platforms such as Windows, Mac and WebGL, also having the deployment experience from start to finish for iOS and Oculus, most of the time i've been working in main gameplay mechanics like RPG inventories, VR locomotion systems, Boss fight behaviour (AI), turn based combats (Pokemon inspired),etc. and sometimes in the backend part such as scripting of the web services like Azure functions and AWS Lambda, and a Rest API with Express JS and MySQL.
+I am a seasoned Game Developer with extensive experience in creating games for multiple platforms including Windows, Mac, WebGL and XR Platforms. My expertise extends to end-to-end deployment for Windows, Mac, iOS, Android, Oculus, OpenXR and MR Devices such as Hololens. My primary focus has been on developing main gameplay for XR applications. Additionally, I have worked on backend development, scripting web services using Azure Functions, AWS Lambda, and building REST APIs with Express.js and MySQL.
 
-Also i've had the opportunity to work in AR development with different frameworks like ARCore, ARKit, Vuforia and MRTK with C# and C++, creating experiences with object recognition, location based augmented reality, terrain detection, development on Microsoft Hololens and augmented experiences with sensor data, adding also VR development for HTC Vive and Oculus Quest 1 / 2 using hand tracking, leap motion and tools developed with Arduino to amplify experiences, I am also working on different personal projects involving computer vision with OpenCV and Tensorflow, thanks to this I am in constant execution of personal and work projects. 
+My AR development experience includes working with frameworks such as ARCore, ARKit, Vuforia, and MRTK, utilizing C# and C++. I have created diverse AR experiences involving object recognition, location-based augmented reality, terrain detection, and development for Microsoft Hololens. My VR development experience covers HTC Vive and Oculus Quest 1/2, incorporating hand tracking, Leap Motion, and custom tools developed with Arduino to enhance the VR experience.
+
+Currently, I am engaged in various personal projects that explore computer vision using OpenCV and TensorFlow, ensuring I remain at the forefront of technological advancements in both personal and professional realms.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
