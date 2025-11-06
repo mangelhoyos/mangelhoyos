@@ -2,16 +2,30 @@
 
 <h3>  Game Developer | Unity </h3>
  
- Hi! I'm **Miguel Ángel**, i'm a Colombian game developer with experience in Unity Engine, I am a passionate Video Game Developer with a deep love for video games and technology aiming to be a great Gameplay Programmer in both Unity and C++ based engines.
+Hi! I'm **Miguel Ángel**, a Colombian software developer passionate about building interactive and scalable systems that merge creativity and technology.
+With over 4 years of experience in software development, I’ve evolved from crafting immersive XR experiences to designing backend architectures, cloud services, and automation pipelines that power modern applications.
  
 
-<h3> 🧑‍💼 My tech experience 🧑‍💼</h3>
+<h3> 🧑‍💼 My tech journey 🧑‍💼</h3>
 
-I am a seasoned Game Developer with extensive experience in creating games for multiple platforms including Windows, Mac, WebGL and XR Platforms. My expertise extends to end-to-end deployment for Windows, Mac, iOS, Android, Oculus, OpenXR and MR Devices such as Hololens. My primary focus has been on developing main gameplay for XR applications. Additionally, I have worked on backend development, scripting web services using Azure Functions, AWS Lambda, and building REST APIs with Express.js and MySQL.
+I am an experienced developer with a hybrid background in interactive systems (Unity, C#) and backend/cloud engineering using Azure and Google Cloud Platform.
+My recent focus lies in developing backend services, RESTful APIs, and automation pipelines, leveraging Azure Functions, PlayFab, and containerized environments to support both game and web ecosystems.
 
-My AR development experience includes working with frameworks such as ARCore, ARKit, Vuforia, and MRTK, utilizing C# and C++. I have created diverse AR experiences involving object recognition, location-based augmented reality, terrain detection, and development for Microsoft Hololens. My VR development experience covers HTC Vive and Oculus Quest 1/2, incorporating hand tracking, Leap Motion, and custom tools developed with Arduino to enhance the VR experience.
+Throughout my career, I’ve built systems for Windows, Mac, Android, iOS, and Web, as well as XR platforms like Oculus, HoloLens, and WebAR. My ability to bridge the gap between immersive front-end experiences and robust backend infrastructures allows me to deliver complete, scalable solutions.
 
-Currently, I am engaged in various personal projects that explore computer vision using OpenCV and TensorFlow, ensuring I remain at the forefront of technological advancements in both personal and professional realms.
+☁️ Core Tech Expertise ☁️
+
+* Backend & Cloud: Azure (Functions, PlayFab, Containers, Databases), Google Cloud Platform, RESTful APIs
+
+* Languages: C#, Python, JavaScript, C++
+
+* Web & Interactive Development: WebGL, SCORM 2.1, Node.js, Express.js
+
+* XR Development: Unity (VR/AR/MR), MRTK, 8th Wall, Meta Spark, Lens Studio
+
+* Automation & Tools: n8n, Git/GitHub Actions, CI/CD pipelines
+
+* Collaboration: Agile/Scrum, Jira, Trello, Notion, Microsoft Teams
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
