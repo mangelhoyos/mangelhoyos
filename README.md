@@ -1,7 +1,5 @@
 <h2> 🎮Miguel Ángel Hoyos 🎮 </h2>
 
-<h3>  Game Developer | Unity </h3>
- 
 <h3> 🎮 Unity Game Developer </h3>
 
 Hi, I’m <strong>Miguel Ángel</strong>, a Unity Game Developer with around <strong>5 years of professional experience</strong> working on games and real-time interactive projects.
