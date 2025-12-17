@@ -30,7 +30,6 @@ I value clear code, practical solutions, and steady iteration. My goal is to bui
   <li><a href="https://sacredtails.com">Sacred Tails</a></li>
   <li><a href="https://www.youtube.com/watch?v=YM21cwCaAeM">Cabin Crew Simulator VR</a></li>
   <li><a href="https://www.youtube.com/watch?v=teMYoaqYCh0">GoPicking Hololens</a></li>
-  <li><a href="https://apps.apple.com/tr/app/maternidades/id1600949528">Maternidades</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
