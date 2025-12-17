@@ -2,30 +2,22 @@
 
 <h3>  Game Developer | Unity </h3>
  
-Hi! I'm **Miguel Ángel**, a Colombian software developer passionate about building interactive and scalable systems that merge creativity and technology.
-With over 4 years of experience in software development, I’ve evolved from crafting immersive XR experiences to designing backend architectures, cloud services, and automation pipelines that power modern applications.
- 
+<h3> 🎮 Unity Game Developer </h3>
 
-<h3> 🧑‍💼 My tech journey 🧑‍💼</h3>
+Hi, I’m <strong>Miguel Ángel</strong>, a Unity Game Developer with around <strong>5 years of professional experience</strong> working on games and real-time interactive projects.
 
-I am an experienced developer with a hybrid background in interactive systems (Unity, C#) and backend/cloud engineering using Azure and Google Cloud Platform.
-My recent focus lies in developing backend services, RESTful APIs, and automation pipelines, leveraging Azure Functions, PlayFab, and containerized environments to support both game and web ecosystems.
+My work focuses on building gameplay features, systems, and tools in Unity using C#, covering single-player and multiplayer projects, as well as projects that require online services or backend integration. I’m comfortable taking features from design to implementation and iterating on them until they work well in real gameplay scenarios.
 
-Throughout my career, I’ve built systems for Windows, Mac, Android, iOS, and Web, as well as XR platforms like Oculus, HoloLens, and WebAR. My ability to bridge the gap between immersive front-end experiences and robust backend infrastructures allows me to deliver complete, scalable solutions.
+I’ve contributed to projects across PC, mobile, WebGL, and XR, collaborating closely with designers, artists, and other developers in production environments.
 
-☁️ Core Tech Expertise ☁️
+<strong>Core experience</strong>
+- Unity (C#) for gameplay and systems development  
+- Multiplayer integration (Photon PUN, Mirror, PlayFab)  
+- Game services and backend integration (Azure Functions, REST APIs)  
+- WebGL and real-time interactive experiences  
+- VR / AR / MR development  
 
-* Backend & Cloud: Azure (Functions, PlayFab, Containers, Databases), Google Cloud Platform, RESTful APIs
-
-* Languages: C#, Python, JavaScript, C++
-
-* Web & Interactive Development: WebGL, SCORM 2.1, Node.js, Express.js
-
-* XR Development: Unity (VR/AR/MR), MRTK, 8th Wall, Meta Spark, Lens Studio
-
-* Automation & Tools: n8n, Git/GitHub Actions, CI/CD pipelines
-
-* Collaboration: Agile/Scrum, Jira, Trello, Notion, Microsoft Teams
+I value clear code, practical solutions, and steady iteration. My goal is to build solid game features that are easy to maintain and feel good to play.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +27,8 @@ Throughout my career, I’ve built systems for Windows, Mac, Android, iOS, and W
 
 <h3>Projects i've worked on</h3>
 <ul>
+  <li><a href="https://www.youtube.com/watch?v=nnS36F5GAho">Puppet Kings</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Mk1Hrds5WpY">Xbuilder</a></li>
   <li><a href="https://sacredtails.com">Sacred Tails</a></li>
   <li><a href="https://www.youtube.com/watch?v=YM21cwCaAeM">Cabin Crew Simulator VR</a></li>
   <li><a href="https://www.youtube.com/watch?v=teMYoaqYCh0">GoPicking Hololens</a></li>
