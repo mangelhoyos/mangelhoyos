@@ -1,37 +1,62 @@
-<h2> 🎮 Miguel Ángel Hoyos 🎮 </h2>
+<h2> 🎮 Miguel Ángel Hoyos 🎮 </h2> 
 
-<h3> Unity Game Developer </h3>
+**Unity Developer — Gameplay • Systems • Multiplayer • Live Ops**
 
-Hi, I’m <strong>Miguel Ángel</strong>, a Unity Game Developer with around <strong>5 years of professional experience</strong> working on games and real-time interactive projects.
+I build **playable systems and real-time experiences** with Unity for **PC, Mobile, WebGL**, and connected backends.  
+I specialize in **gameplay architecture, multiplayer features, progression systems**, and shipping features fast inside live projects.
 
-My work focuses on building gameplay features, systems, and tools in Unity using C#, covering single-player and multiplayer projects, as well as projects that require online services or backend integration. I’m comfortable taking features from design to implementation and iterating on them until they work well in real gameplay scenarios.
+---
 
-I’ve contributed to projects across PC, mobile, WebGL, and XR, collaborating closely with designers, artists, and other developers in production environments.
+## 🎮 What I Do
 
-<strong>Core experience</strong>
-- Unity (C#) for gameplay and systems development  
-- Multiplayer integration (Photon PUN, Mirror, PlayFab)  
-- Game services and backend integration (Azure Functions, REST APIs)  
-- WebGL and real-time interactive experiences  
-- VR / AR / MR development  
+### 🔧 Gameplay & Systems
+- Implementing core gameplay mechanics and player facing features
+- Designing and developing scalable game systems and supporting logic
+- Turning design specifications into responsive, polished interactions
+- Prototyping and iterating features from concept to production
+- Building tools and workflows that support designers and content teams
+- Debugging, tuning, and optimizing gameplay in collaboration with cross discipline teams 
 
-I value clear code, practical solutions, and steady iteration. My goal is to build solid game features that are easy to maintain and feel good to play.
+### 🌐 Multiplayer & Backend
+- Matchmaking, PvP flows & async resolution  
+- Server-authoritative logic
+- Cloud persistence & economy systems
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mangelhoyos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mangelhoyos" height="30" width="40" /></a>
-<a href="https://www.instagram.com/m.angel.hoyos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.angel.hoyos/" height="30" width="40" /></a>
-</p>
+### 📱 Platforms
+- **PC / WebGL / Mobile**
+- Used in:
+  - live-service games  
+  - branded interactive experiences  
+  - internal tools & training apps  
+- XR when needed (VR/MR/AR), with gameplay-first focus
 
-<h3>Projects i've worked on</h3>
-<ul>
-  <li><a href="https://www.youtube.com/watch?v=nnS36F5GAho">Puppet Kings</a></li>
-  <li><a href="https://www.youtube.com/watch?v=Mk1Hrds5WpY">Xbuilder</a></li>
-  <li><a href="https://sacredtails.com">Sacred Tails</a></li>
-  <li><a href="https://www.youtube.com/watch?v=YM21cwCaAeM">Cabin Crew Simulator VR</a></li>
-  <li><a href="https://www.youtube.com/watch?v=teMYoaqYCh0">GoPicking Hololens</a></li>
-</ul>
+### 📈 Optimization & Live Ops
+- WebGL performance tuning
+- Fast iteration development pipelines
+- Balancing & polishing gameplay loops
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+
+## 🧪 Tech Stack
+**Unity • C# • **Netcode - Mirror - Photon / PlayFab / Azure / AWS**  
+Mobile (Android and iOS) development
+PC / Mac development
+WebGL deployment & optimization  
+XR foundations (AR Foundation, OpenXR, 8th Wall)
+
+---
+
+## 🚀 Selected Projects (Unity)
+- **<a href="https://sacredtails.com">Sacred Tails</a>** - Action RPG with progression + async multiplayer using PlayFab + Azure  
+- **<a href="https://www.youtube.com/watch?v=Mk1Hrds5WpY">Xbuilder</a>** - PvP modular combat arena, robot builder + matchmaking  
+- **<a href="https://www.youtube.com/watch?v=nnS36F5GAho">Puppet Kings</a>** - Boss-rush breakout hybrid, systems + tuning  
+- **<a href="https://www.youtube.com/watch?v=YM21cwCaAeM">Cabin Crew Simulator VR</a>** - Gameplay systems for enterprise training
+
+*(Full context in my portfolio & CV)*
+
+---
+
+## 📫 Find Me
+**<a href="https://www.linkedin.com/in/mangelhoyos">LinkedIn</a> | Medellín, Colombia**  
+✉️ mangelhoyos101@gmail.com  
 
