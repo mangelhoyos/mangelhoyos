@@ -38,7 +38,7 @@ I specialize in **gameplay architecture, multiplayer features, progression syste
 ---
 
 ## 🧪 Tech Stack
-**Unity • C# • **Netcode - Mirror - Photon / PlayFab / Azure / AWS**  
+**Unity • C# • Netcode - Mirror - Photon / PlayFab / Azure / AWS**  
 Mobile (Android and iOS) development
 PC / Mac development
 WebGL deployment & optimization  
