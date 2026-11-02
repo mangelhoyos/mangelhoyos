@@ -7,6 +7,18 @@ I specialize in **gameplay architecture, multiplayer features, progression syste
 
 ---
 
+## 🚀 Projects i've worked on
+- **<a href="https://metalingo.ca">Metalingo</a>** - A multiplayer learning platform for kids, built with FishNet and AI generated scenes in Unity
+- **<a href="https://sacredtails.com">Sacred Tails</a>** - Action RPG with progression + async multiplayer using PlayFab + Azure  
+- **<a href="https://www.youtube.com/watch?v=Mk1Hrds5WpY">Xbuilder</a>** - PvP modular combat arena, robot builder + matchmaking  
+- **<a href="https://www.youtube.com/watch?v=nnS36F5GAho">Puppet Kings</a>** - Boss-rush breakout hybrid, systems + tuning  
+- **<a href="https://www.youtube.com/watch?v=YM21cwCaAeM">Cabin Crew Simulator VR</a>** - Gameplay systems and backend for VR aeronauthics training
+- **<a href="https://www.youtube.com/watch?v=3DisiPKhR0s">Compressor Washing Machine AR</a>** - AR Application for a machine with object tracking
+- **<a href="https://www.youtube.com/watch?v=teMYoaqYCh0">GoPicking Hololens</a>** - Mixed Reality application made with Microsoft Hololens
+- **<a href="https://drive.google.com/drive/folders/11c5NUTphoHaN9Z9RrUBp1Ac3V2CJxRvZ?usp=drive_link">Social AR Experiences</a>** - AR Experiencies for big branded companies
+
+---
+
 ## 🎮 What I Do
 
 ### 🔧 Gameplay & Systems
@@ -46,16 +58,6 @@ XR foundations (AR Foundation, OpenXR, 8th Wall)
 
 ---
 
-## 🚀 Selected Projects
-- **<a href="https://sacredtails.com">Sacred Tails</a>** - Action RPG with progression + async multiplayer using PlayFab + Azure  
-- **<a href="https://www.youtube.com/watch?v=Mk1Hrds5WpY">Xbuilder</a>** - PvP modular combat arena, robot builder + matchmaking  
-- **<a href="https://www.youtube.com/watch?v=nnS36F5GAho">Puppet Kings</a>** - Boss-rush breakout hybrid, systems + tuning  
-- **<a href="https://www.youtube.com/watch?v=YM21cwCaAeM">Cabin Crew Simulator VR</a>** - Gameplay systems and backend for VR aeronauthics training
-- **<a href="https://www.youtube.com/watch?v=3DisiPKhR0s">Compressor Washing Machine AR</a>** - AR Application for a machine with object tracking
-- **<a href="https://www.youtube.com/watch?v=teMYoaqYCh0">GoPicking Hololens</a>** - Mixed Reality application made with Microsoft Hololens
-- **<a href="https://drive.google.com/drive/folders/11c5NUTphoHaN9Z9RrUBp1Ac3V2CJxRvZ?usp=drive_link">Social AR Experiences</a>** - AR Experiencies for big branded companies
-
----
 
 ## 📫 Find Me
 **<a href="https://www.linkedin.com/in/mangelhoyos">LinkedIn</a> | Medellín, Colombia**  
