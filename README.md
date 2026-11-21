@@ -1,65 +1,72 @@
-<h2> 🎮 Miguel Ángel Hoyos 🎮 </h2> 
+# Miguel Ángel Hoyos
 
-**Unity Developer — Gameplay • Systems • Multiplayer • Live Ops**
+**Unity Game Developer | Gameplay Systems • Multiplayer • Software Architecture**
 
-I build **playable systems and real-time experiences** with Unity for **PC, Mobile, WebGL**, and connected backends.  
-I specialize in **gameplay architecture, multiplayer features, progression systems**, and shipping features fast inside live projects.
+I'm a Unity developer with over 6 years of professional experience building games and real-time applications for PC, mobile, WebGL, and immersive platforms. My work spans player-facing gameplay, the systems behind it, and the technical decisions needed to keep projects maintainable and performant.
 
----
+I've developed combat and progression systems, online gameplay, backend integrations, and interactive simulations. I also work on Unity architecture, profiling, and generative AI workflows for creating dynamic 3D environments.
 
-## 🚀 Projects i've worked on
-- **<a href="https://metalingo.ca">Metalingo</a>** - A multiplayer learning platform for kids, built with FishNet and AI generated scenes in Unity
-- **<a href="https://sacredtails.com">Sacred Tails</a>** - Action RPG with progression + async multiplayer using PlayFab + Azure  
-- **<a href="https://www.youtube.com/watch?v=Mk1Hrds5WpY">Xbuilder</a>** - PvP modular combat arena, robot builder + matchmaking  
-- **<a href="https://www.youtube.com/watch?v=nnS36F5GAho">Puppet Kings</a>** - Boss-rush breakout hybrid, systems + tuning  
-- **<a href="https://www.youtube.com/watch?v=YM21cwCaAeM">Cabin Crew Simulator VR</a>** - Gameplay systems and backend for VR aeronauthics training
-- **<a href="https://www.youtube.com/watch?v=3DisiPKhR0s">Compressor Washing Machine AR</a>** - AR Application for a machine with object tracking
-- **<a href="https://www.youtube.com/watch?v=teMYoaqYCh0">GoPicking Hololens</a>** - Mixed Reality application made with Microsoft Hololens
-- **<a href="https://drive.google.com/drive/folders/11c5NUTphoHaN9Z9RrUBp1Ac3V2CJxRvZ?usp=drive_link">Social AR Experiences</a>** - AR Experiencies for big branded companies
+**Based in Medellín, Colombia** · [LinkedIn](https://www.linkedin.com/in/mangelhoyos) · [Email](mailto:mangelhoyos101@gmail.com)
 
----
+## Selected Work
 
-## 🎮 What I Do
+### Games & Connected Experiences
 
-### 🔧 Gameplay & Systems
-- Implementing core gameplay mechanics and player facing features
-- Designing and developing scalable game systems and supporting logic
-- Turning design specifications into responsive, polished interactions
-- Prototyping and iterating features from concept to production
-- Building tools and workflows that support designers and content teams
-- Debugging, tuning, and optimizing gameplay in collaboration with cross discipline teams 
+**[Sacred Tails](https://sacredtails.com)** — Monster-collecting game with card-based progression and online battles  
+*Unity · Gameplay · Multiplayer · PlayFab · Azure Functions*  
+Led Unity technical development and implemented combat, progression, multiplayer, tournaments, and persistent player data.
 
-### 🌐 Multiplayer & Backend
-- Matchmaking, PvP flows & async resolution  
-- Server-authoritative logic
-- Cloud persistence & economy systems
+**[XBuilder](https://www.youtube.com/watch?v=Mk1Hrds5WpY)** — Modular combat game with PvP and roguelike modes  
+*Unity · Gameplay · Photon · Mirror*  
+Developed gameplay and multiplayer systems. Migrated networking from Photon to Mirror to reduce costs and gain more control over synchronization and game logic.
 
-### 📱 Platforms
-- **PC / WebGL / Mobile**
-- Used in:
-  - live-service games  
-  - branded interactive experiences  
-  - internal tools & training apps  
-- XR when needed (VR/MR/AR), with gameplay-first focus
+**[Puppet Kings](https://www.youtube.com/watch?v=nnS36F5GAho)** — Breakout-inspired action game with boss fights and roguelike mechanics  
+*Unity · Gameplay Systems · Animation Integration*  
+Developed core gameplay features and worked with artists to integrate characters, animation, and gameplay feedback.
 
-### 📈 Optimization & Live Ops
-- WebGL performance tuning
-- Fast iteration development pipelines
-- Balancing & polishing gameplay loops
+**[Metalingo](https://metalingo.ca)** — Multiplayer learning platform with interactive Unity environments  
+*Unity WebGL · FishNet · Real-Time Networking · Generative AI*  
+Develop and optimize multiplayer systems, Unity-to-web communication, and scalable runtime architecture. Work on AI-assisted dynamic scene generation.
 
----
+### Simulations & Immersive Experiences
 
-## 🧪 Tech Stack
-**Unity • C# • Netcode - Mirror - Photon / PlayFab / Azure / AWS**  
-Mobile (Android and iOS) development
-PC / Mac development
-WebGL deployment & optimization  
-XR foundations (AR Foundation, OpenXR, 8th Wall)
+**[Cabin Crew Simulator VR](https://www.youtube.com/watch?v=YM21cwCaAeM)** — Interactive aviation training simulation  
+*Unity · VR · Simulation Systems*  
+Worked on interactive simulation logic and systems for immersive training.
 
----
+**[Compressor Washing Machine AR](https://www.youtube.com/watch?v=3DisiPKhR0s)** — Object-tracked AR experience for an industrial machine  
+*Unity · Augmented Reality · Object Tracking*  
+Built interactive AR functionality connecting a physical object with digital content.
 
+**[GoPicking HoloLens](https://www.youtube.com/watch?v=teMYoaqYCh0)** — Mixed reality interaction experience  
+*Unity · HoloLens · Mixed Reality*  
+Developed immersive interaction features for a HoloLens application.
 
-## 📫 Find Me
-**<a href="https://www.linkedin.com/in/mangelhoyos">LinkedIn</a> | Medellín, Colombia**  
-**✉️ mangelhoyos101@gmail.com** 
+**[Social AR Experiences](https://drive.google.com/drive/folders/11c5NUTphoHaN9Z9RrUBp1Ac3V2CJxRvZ?usp=drive_link)** — Interactive brand experiences  
+*AR · Lens Studio · Meta Spark · 8th Wall*  
+Created interactive AR experiences and browser-based effects for advertising campaigns.
 
+## What I Work On
+
+- **Gameplay & game systems:** combat, progression, inventories, AI behaviors, UI, and feature implementation.
+- **Multiplayer & backend:** real-time synchronization, online gameplay, REST APIs, player persistence, and integrations with FishNet, Photon, Mirror, and PlayFab.
+- **Architecture & optimization:** maintainable C# systems, profiling, debugging, rendering workflows, and Unity WebGL performance.
+- **Cross-platform experiences:** PC, Android, iOS, browser-based Unity applications, VR, AR, and mixed reality.
+- **Generative AI in Unity:** agentic workflows that connect prompt-driven asset creation with dynamic scene composition and runtime environments.
+
+## Technologies
+
+| Area | Tools & technologies |
+| --- | --- |
+| Engine & programming | Unity, C#, C++ |
+| Gameplay & networking | FishNet, Photon, Mirror, PlayFab |
+| Backend & cloud | REST APIs, Azure, AWS, Kubernetes, K9s |
+| Rendering & optimization | URP, HDRP, Shader Graph, profiling, DOTS/ECS |
+| Platforms & XR | PC, Android, iOS, WebGL, VR, AR, HoloLens |
+| Development workflow | Git, collaborative development, technical planning |
+
+## Get in Touch
+
+I'm open to discussing Unity development opportunities involving gameplay, multiplayer systems, client engineering, and interactive real-time applications.
+
+**[LinkedIn](https://www.linkedin.com/in/mangelhoyos)** · **[GitHub](https://github.com/mangelhoyos)** · **[Email](mailto:mangelhoyos101@gmail.com)**
