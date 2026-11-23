@@ -8,7 +8,7 @@ I've developed combat and progression systems, online gameplay, backend integrat
 
 **Based in Medellín, Colombia** · [LinkedIn](https://www.linkedin.com/in/mangelhoyos) · [Email](mailto:mangelhoyos101@gmail.com)
 
-## Selected Work
+## Published experiences (Click to watch)
 
 ### Games & Connected Experiences
 
